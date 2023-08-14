@@ -16,7 +16,7 @@ Members:
 
 # Problem 3 Part 2 - Visual Storytelling: Capital Metro data 
 
-[# Problem 4 - Clustering and dimensionality reduction](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/8f7865f7a3d3552be2f3ea67a78a071dddfb46ab/ML%20Final%20Submission/Wine%20Clustering.ipynb)
+[# Problem 4 - Clustering and Dimensionality Reduction](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/8f7865f7a3d3552be2f3ea67a78a071dddfb46ab/ML%20Final%20Submission/Wine%20Clustering.ipynb)
 
 [# Problem 5 - Market Segmentation](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/8f7865f7a3d3552be2f3ea67a78a071dddfb46ab/ML%20Final%20Submission/Market%20Segmentation.ipynb)
 
