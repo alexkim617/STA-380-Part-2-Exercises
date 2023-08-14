@@ -4,7 +4,7 @@ Members:
 
 # *Alex Kim - ajk3983*
 
-# *John Hwang - *
+# *John Hwang - jh75576*
 
 # *Medha Nalamada - mrn789*
 
