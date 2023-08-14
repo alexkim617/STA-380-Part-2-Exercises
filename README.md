@@ -10,7 +10,7 @@ Members:
 
 [# Problem 1 - Probability Practice](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/0b77cc95efc9b655ade062b81483d0f32e0d2bed/ML%20Final%20Submission/Probability%20Practice.ipynb)
 
-[Problem 2 - Wrangling the Billboard Top 100 ](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/main/ML%20Final%20Submission/Billboard%20Top%20100.ipynb)
+[# Problem 2 - Wrangling the Billboard Top 100 ](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/main/ML%20Final%20Submission/Billboard%20Top%20100.ipynb)
 
 [# Problem 3 Part 1 - Visual Storytelling: Green Buildings](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/8f7865f7a3d3552be2f3ea67a78a071dddfb46ab/ML%20Final%20Submission/GreenBuildings.ipynb)
 
