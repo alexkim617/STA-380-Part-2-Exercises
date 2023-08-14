@@ -24,4 +24,4 @@ Members:
 
 # Problem 7 - Association Rule Mining 
 
-[# Problem 8 - Image Classification with Neural Networks](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/main/ML%20Final%20Submission/Image%20Classification%20with%20Neural%20Network.ipynb)
+[# Problem 8 - Image Classification with Neural Networks](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/main/ML%20Final%20Submission/Image%20Classification%20with%20Neural%20Networks.ipynb)
