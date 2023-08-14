@@ -23,7 +23,7 @@
 
 [# Problem 5 - Market Segmentation](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/8f7865f7a3d3552be2f3ea67a78a071dddfb46ab/ML%20Final%20Submission/Market%20Segmentation.ipynb)
 
-# Problem 6 - The Reuters Corpus 
+[# Problem 6 - The Reuters Corpus](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/main/ML%20Final%20Submission/The%20Reuters%20Corpus.ipynb) 
 
 [# Problem 7 - Association Rule Mining](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/main/ML%20Final%20Submission/Association%20Rule%20Mining.ipynb)
 
