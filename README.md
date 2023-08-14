@@ -14,7 +14,7 @@ Members:
 
 [# Problem 3 Part 1 - Visual Storytelling: Green Buildings](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/8f7865f7a3d3552be2f3ea67a78a071dddfb46ab/ML%20Final%20Submission/GreenBuildings.ipynb)
 
-# Problem 3 Part 2 - Visual Storytelling: Capital Metro data 
+[# Problem 3 Part 2 - Visual Storytelling: Capital Metro data](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/f69eb7c6a857ba6c452e10a29f921c80d6494434/ML%20Final%20Submission/CapMetro_UT_Austin.ipynb)
 
 [# Problem 4 - Clustering and Dimensionality Reduction](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/8f7865f7a3d3552be2f3ea67a78a071dddfb46ab/ML%20Final%20Submission/Wine%20Clustering.ipynb)
 
