@@ -1,5 +1,5 @@
 # Final Report - STA 380 
-Members: 
+**Members:**
 
 ***Davis Gill - dg38354***
 
@@ -8,6 +8,8 @@ Members:
 ***John Hwang - jh75576***
 
 ***Medha Nalamada - mrn789***
+
+**Exercises**
 
 [# Problem 1 - Probability Practice](https://github.com/alexkim617/STA-380-Part-2-Exercises/blob/6fe1813072eaefc7e5c13192952e5e60c5ab44b7/ML%20Final%20Submission/Probability%20Practice.ipynb)
 
